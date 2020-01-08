@@ -1,0 +1,11 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table fractalstudio_exchanger_currencies'
+    - builder_table_create_fractalstudio_exchanger_currencies.php
+1.0.3:
+    - 'Created table fractalstudio_exchanger_pairs'
+    - builder_table_create_fractalstudio_exchanger_pairs.php
+1.0.4:
+    - 'Created table fractalstudio_exchanger_orders'
+    - builder_table_create_fractalstudio_exchanger_orders.php

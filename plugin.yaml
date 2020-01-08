@@ -1,0 +1,6 @@
+plugin:
+    name: 'fractalstudio.exchanger::lang.plugin.name'
+    description: 'fractalstudio.exchanger::lang.plugin.description'
+    author: FractalStudio
+    icon: oc-icon-bitcoin
+    homepage: ''
